@@ -1,0 +1,2 @@
+@reboot                 /home/minecraft/bin/minecraft_server.sh start
+0,15,30,45 * * * *      /home/minecraft/bin/minecraft_server.sh backup
